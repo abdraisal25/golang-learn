@@ -1,5 +1,5 @@
 package golang_learn
 
 func SayHello() string {
-	return "Hello"
+	return "Hello World"
 }
